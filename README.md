@@ -1,4 +1,4 @@
-# [symfony-flex-init](https://symfony-flex-init.github.io)
+# [symfony-flex-init](https://symfony-flex-init.github.com)
 
 # See also
 ## Symfony Flex
