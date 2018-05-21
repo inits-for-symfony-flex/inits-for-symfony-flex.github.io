@@ -1,1 +1,1 @@
-# [symfony-flex-init.github.io](https://symfony-flex-init.github.io)
+# [symfony-flex-init](https://symfony-flex-init.github.io)
