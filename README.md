@@ -1,4 +1,4 @@
-# [symfony-flex-init](https://symfony-flex-init.github.io)@[GitHub](http://github.com/symfony-flex-init)
+# [inits-for-symfony-flex](https://inits-for-symfony-flex.github.io)@[GitHub](http://github.com/inits-for-symfony-flex)
 * [phppackages.org](https://phppackages.org/s/symfony-flex-init)
 * [packagist.org](https://packagist.org/?query=symfony-flex-init)
 # See also
